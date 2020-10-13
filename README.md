@@ -1,4 +1,4 @@
-# A-Data-Scientist-for-a-Professional-Football-Club
+# A-Data-Scientist-for-a-Professional-Football-Club-Part1
 In this project, you work as a Data Scientist for a professional football club. The owner of the team is very interested in seeing how the use of data can help improve the team's peformance, and perhaps win them a championship!  The draft is coming up soon (thats when you get to pick new players for your team), and the owner wants you to create a model to help score potential draftees. The model will look at attributes about the player and predict what their "rating" will be once they start playing professionally.  The football club's data team has provided the data for 17,993 footballers from the league. Our job is to build a model or models, perform model selection, and make predictions on players you we have not yet seen.
 
 The Dataset
